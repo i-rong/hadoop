@@ -1,0 +1,5 @@
+class Web {
+    constructor(id) {
+    
+    }
+}
